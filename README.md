@@ -39,7 +39,6 @@ The features of this project :  <br>
 
 i> cd C:\xampp\htdocs\
 
-ii> git clone https://github.com/SmileWithKhushi/Basic-Banking-System.git
 
 <li> Extract the files in C:\xampp\htdocs. </li>
 
